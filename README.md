@@ -7,6 +7,8 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 git clone https://github.com/Xadr123/electron-quick-start
 # Go into the repository
 cd electron-quick-start
+# Install Electron Globally
+npm install -g electron
 # Install dependencies
 npm install
 # Run the app
